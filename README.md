@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranav V! 👋
 
-![GitHub Banner](https://github.com/pranav-8660/pranav-8660/raw/main/banner.png)
+![GitHub Banner](https://github.com/pranav-8660/pranav-8660/blob/main/banner.jpg)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Backend+Developer;Cloud+%7C+DevOps+%7C+Microservices;Java+%7C+Spring+Boot+%7C+Docker+%7C+Kubernetes;AI+%7C+GenAI+%7C+RAG+%7C+Embeddings+%7C+FAISS" alt="Typing SVG" />
