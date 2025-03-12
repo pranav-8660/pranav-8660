@@ -11,9 +11,9 @@
 ### 🚀 About Me
 - 🎓 **Computer Science & Engineering** | RNS Institute of Technology, Bengaluru (CGPA: 9.11/10)
 - 💻 **Software Engineering Intern @ Practo**
-- 🌱 Currently learning **Kubernetes, Jenkins, and Generative AI**
+- 🌱 Currently learning **DevOps Tools and Generative AI**
 - 📚 Published research on **Automating Sentiment Analysis for Business Intelligence** ([IJRASET 2025](https://www.ijraset.com/best-journal/automating-sentiment-analysis-for-business-intelligence))
-- ⚡ Passionate about **Cloud Computing, DevOps, and AI-driven Applications**
+- ⚡ Passionate about **Cloud Computing, Microservices, DevOps, and AI-driven Applications**
 
 ---
 
